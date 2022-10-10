@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dreanx
+- 👋 Hi, I’m @dreanx aka Pierre aka Grumpy Cat
 - 👀 I’m interested in videos games/computers/sports
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on any learning projects
