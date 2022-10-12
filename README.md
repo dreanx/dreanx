@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dreanx aka Pierre aka Grumpy Cat
 - 👀 I’m interested in videos games/computers/sports
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning web and game dev
 - 💞️ I’m looking to collaborate on any learning projects
 - 📫 How to reach me pierre.basck@gmail.com
 
