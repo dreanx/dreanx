@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dreanx aka Pierre aka Grumpy Cat
 - 👀 Interested in videos games/computers/sports/pizza/chicken butter
-- 🌱 Learning web dev (and interested in game development after that)
+- 🌱 Learning game dev on Unity
 - 📫 How to reach me pierre.basck@gmail.com
-- 📋 What I know : HTML/CSS/JAVASCRIPT/REACT/NODEJS/EXPRESS/MYSQL
+- 📋 What I know : C#/UNITY/HTML/CSS/JAVASCRIPT/REACT/NODEJS/EXPRESS/MYSQL
